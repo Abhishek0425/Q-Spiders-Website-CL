@@ -19,3 +19,5 @@ The QSpiders website is designed to provide information about the organization, 
 - **Contact information**: Contact details for reaching out to QSpiders, including phone numbers and email addresses.
 
 The website is created using HTML and CSS.
+
+For any queries or suggestions, please contact [sharmaabhishek2859@gmail.com].
